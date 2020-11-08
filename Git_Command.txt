@@ -1,0 +1,5 @@
+To View Hide Files in the Folders:
+defaults write com.apple.finder AppleShowAllFiles YES
+
+To Hide again:
+defaults write com.apple.finder AppleShowAllFiles NO
